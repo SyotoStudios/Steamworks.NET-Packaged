@@ -1,0 +1,17 @@
+{
+    "name": "Steamworks.NET.Editor",
+    "references": [
+        "GUID:2db694a7153f3ce41b1e7537d39071df"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

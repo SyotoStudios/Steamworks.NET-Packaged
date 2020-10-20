@@ -1,0 +1,9 @@
+{
+  "name": "com.syotostudios.steamworks",
+  "version": "1.0.0",
+  "displayName": "Steamworks.NET Package",
+  "description": "Unity Package version of the popular Steamworks.NET library.",
+  "unity": "2020.1",
+  "type": "library",
+  "hideInEditor": false
+}
